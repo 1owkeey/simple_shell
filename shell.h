@@ -12,7 +12,7 @@
 #define BUFFER_SIZE 64
 
 
-extern int i; 
+extern int i;
 
 /* Function prototypes */
 void execute_command(char **args);
